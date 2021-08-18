@@ -1,0 +1,31 @@
+8s
+
+1s = monitoramento dos servidores hospitalares
+ através de um mapeamento de todo os hospital.
+
+2s = esse mapeamento pode incluir totem,
+ computadores dos enfermeiros, até maquinas da uti.
+
+3s = esse mapeamento pode estar disponivel no celular, e o 
+procedimento caso algo não esteja funcionando vai estar lá
+para todos estarem ciente do que fazer, caso alguma maquina
+ importante parar de funcionar.
+
+4s = sistema de notificações que informa que
+ maquina parou para o setor especifico, por exemplo,
+ parou uma maquina da uti, toda a equipe vai ser informada.
+
+5s = atraves dos dados gerados, será tudo salvo
+ e tratado para saber o que tem dado mais problema no hospital e assim 
+ele saber aonde terá que melhorar
+
+6s = um sistema para os cliente também será feito,
+através do monitoramentos das maquinas, saberemos que 
+setor pode estar mais lento e assim ser informado para o
+ cliente atraves do app ou colocado nos paineis dos hospitais,
+para saber que talvez haja demora em um lugar especifico.
+
+7s = o aplicativo para os funcionarios podem
+conter os dados especificos sobre o problema para saber
+como arrumar e quanto custara para arrumar.
+
